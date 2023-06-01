@@ -1,0 +1,366 @@
+/* .name2 {
+   
+
+    position: absolute;
+    width: 795px;
+    height: 107px;
+    left: 285px;
+    top: 1300px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 96px;
+    text-align: center;
+
+    color: #000000;
+}
+
+
+.img_dog1 {
+  
+
+    position: absolute;
+    width: 277px;
+    height: 419.48px;
+    left: 147px;
+    top: 1510px;
+
+    border-radius: 186px;
+}
+
+.dogs_name1 {
+
+
+    position: absolute;
+    width: 187.65px;
+    height: 35.08px;
+    left: 191.68px;
+    top: 1958.59px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.button4 {
+  
+
+    position: absolute;
+    width: 277px;
+    height: 58.97px;
+    left: 147px;
+    top: 2023.03px;
+
+    background: #153D7A;
+    border-radius: 60px;
+}
+
+.img_dog2 {
+
+
+    position: absolute;
+    width: 277px;
+    height: 419.67px;
+    left: 544px;
+    top: 1510px;
+
+    border-radius: 186px;
+}
+
+.dogs_name2 {
+
+
+    position: absolute;
+    width: 187.65px;
+    height: 35.1px;
+    left: 588.68px;
+    top: 1958.79px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.button5 {
+ 
+
+    position: absolute;
+    width: 277px;
+    height: 58.99px;
+    left: 544px;
+    top: 2023.01px;
+
+    background: #153D7A;
+    border-radius: 60px;
+}
+
+.img_dog3 {
+
+
+    position: absolute;
+    width: 277px;
+    height: 419.67px;
+    left: 941px;
+    top: 1510px;
+
+    border-radius: 186px;
+}
+
+.dogs_name3 {
+
+
+    position: absolute;
+    width: 187.65px;
+    height: 35.1px;
+    left: 985.68px;
+    top: 1958.79px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.button6 {
+
+
+    position: absolute;
+    width: 277px;
+    height: 58.99px;
+    left: 941px;
+    top: 2023.01px;
+
+    background: #153D7A;
+    border-radius: 60px;
+
+}
+
+.img_dog4 {
+  
+
+    position: absolute;
+    width: 277px;
+    height: 419.48px;
+    left: 147px;
+    top: 2142px;
+
+    border-radius: 186px;
+}
+
+.dogs_name4 {
+
+
+    position: absolute;
+    width: 187.65px;
+    height: 35.08px;
+    left: 191.68px;
+    top: 2590.59px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.button7 {
+
+
+    position: absolute;
+    width: 277px;
+    height: 58.97px;
+    left: 147px;
+    top: 2655.03px;
+
+    background: #153D7A;
+    border-radius: 60px;
+}
+
+.img_dog5 {
+
+    position: absolute;
+    width: 277px;
+    height: 419.48px;
+    left: 544px;
+    top: 2142px;
+
+    border-radius: 186px;
+}
+
+.dogs_name5 {
+
+    position: absolute;
+    width: 187.65px;
+    height: 35.08px;
+    left: 588.68px;
+    top: 2590.59px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.button8 {
+
+
+    position: absolute;
+    width: 277px;
+    height: 58.97px;
+    left: 544px;
+    top: 2655.03px;
+
+    background: #153D7A;
+    border-radius: 60px;
+}
+
+.img_dog6 {
+
+
+    position: absolute;
+    width: 277px;
+    height: 419.67px;
+    left: 940px;
+    top: 2141px;
+
+    border-radius: 186px;
+}
+
+.dogs_name6 {
+
+
+    position: absolute;
+    width: 187.65px;
+    height: 35.1px;
+    left: 984.68px;
+    top: 2589.79px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.button9 {
+  
+
+    position: absolute;
+    width: 277px;
+    height: 58.99px;
+    left: 940px;
+    top: 2654.01px;
+
+    background: #153D7A;
+    border-radius: 60px;
+}
+
+.more {
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.line1 {
+
+
+    position: absolute;
+    width: 1366px;
+    height: 0px;
+    left: -4px;
+    top: 2819px;
+
+    border: 2px solid #000000;
+}
+
+.text {
+
+
+    position: absolute;
+    width: 833px;
+    height: 233px;
+    left: 263px;
+    top: 2853.5px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 72px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.button10 {
+
+
+    position: absolute;
+    width: 453px;
+    height: 125px;
+    left: 453px;
+    top: 3023.5px;
+
+    background: #1E1E1E;
+    border-radius: 60px;
+
+
+   
+
+    position: absolute;
+    width: 338px;
+    height: 59px;
+    left: 495px;
+    top: 3056.5px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 72px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.line2 {
+
+    position: absolute;
+    width: 1366px;
+    height: 0px;
+    left: -4px;
+    top: 3165.5px;
+
+    border: 2px solid #000000;
+} */
